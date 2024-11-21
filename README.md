@@ -15,3 +15,26 @@ A **32-bit processor** designed from scratch using **VHDL**, based on the MIPS a
   - Easy to modify or expand.
 - **Fully Synthesizable**:
   - Compatible with FPGA deployment.
+
+---
+
+## How to Use Assembly with the MIPS Processor
+
+Watch the video below for a step-by-step guide on using assembly with this custom MIPS processor:
+
+[![Watch the video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://github.com/user-attachments/assets/7fea49e6-1b7b-43d0-94db-ba1b482e36f2)
+
+---
+
+## Getting Started
+
+### Prerequisites
+- **VHDL Simulator/Editor**: Example: ModelSim, Vivado, Quartus.
+- **Assembler and Compiler**: Included in the repository under `assembler/` and `compiler/`.
+- **FPGA Development Tools**: (Optional for synthesis).
+- **Basic knowledge of MIPS architecture**.
+
+### Steps to Run the Simulation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/mips32-processor.git
