@@ -1,0 +1,597 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code
+T_opt
+!s110 1675977807
+Vz;bLWWcMVFVBJ9S=?McRP1
+04 7 10 work mips_tb behavioral 1
+=1-00d861e7a783-63e5644f-302-9ec
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+Ealu
+Z1 w1675702309
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z7 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/ALU.vhdl
+Z8 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/ALU.vhdl
+l0
+L16
+Ve`6DZGKhR>31f5hFDa8le0
+!s100 0dOo;UFT=<L<]?45mUe>V0
+Z9 OL;C;10.6d;65
+32
+Z10 !s110 1675977799
+!i10b 1
+Z11 !s108 1675977799.000000
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/ALU.vhdl|
+Z13 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/ALU.vhdl|
+!i113 0
+Z14 o-work work
+Z15 tExplicit 1 CvgOpt 0
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 alu 0 22 e`6DZGKhR>31f5hFDa8le0
+l39
+L32
+VAaPX9zl<TJSLmEDU5MT712
+!s100 GkQ:b_>T7hB?0ObXIC[[G1
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+R15
+Ealu_control
+Z16 w1675700485
+R2
+R5
+R6
+R0
+Z17 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/ALU_control.vhdl
+Z18 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/ALU_control.vhdl
+l0
+L15
+VOmN6>WH79`gN8B4SYabKj3
+!s100 d?10h>m;b7nMkdA=zPjK_1
+R9
+32
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/ALU_control.vhdl|
+Z20 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/ALU_control.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R5
+R6
+DEx4 work 11 alu_control 0 22 OmN6>WH79`gN8B4SYabKj3
+l31
+L27
+VSHWZaDABQ2N7fK4A23DZT1
+!s100 kWX<0z6CBbK<IeZWo647L0
+R9
+32
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 0
+R14
+R15
+Ebranch_address_generate
+R16
+R2
+R5
+R6
+R0
+Z21 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Branch_Address_generate.vhdl
+Z22 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Branch_Address_generate.vhdl
+l0
+L15
+V@K:BPOoaoiJl`TE4]PRbo1
+!s100 gmoKFJb0JNJPc:6CD1nLD1
+R9
+32
+R10
+!i10b 1
+R11
+Z23 !s90 -reportprogress|300|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Branch_Address_generate.vhdl|
+Z24 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Branch_Address_generate.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R5
+R6
+DEx4 work 23 branch_address_generate 0 22 @K:BPOoaoiJl`TE4]PRbo1
+l32
+L26
+V`oz@zoR1nfR0JhU<gKe0b2
+!s100 =g6n2ZC=z8G?62045jJ8C2
+R9
+32
+R10
+!i10b 1
+R11
+R23
+R24
+!i113 0
+R14
+R15
+Edata_memory
+R16
+R2
+R5
+R6
+R0
+Z25 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Data_Memory.vhdl
+Z26 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Data_Memory.vhdl
+l0
+L14
+V^UjFXLe43ghe5iVCTeTF`3
+!s100 kf5k7AT9HlbM4zJF_KAHF3
+R9
+32
+R10
+!i10b 1
+R11
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Data_Memory.vhdl|
+Z28 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Data_Memory.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R5
+R6
+DEx4 work 11 data_memory 0 22 ^UjFXLe43ghe5iVCTeTF`3
+l290
+L27
+V:hjj86LMNAeHceZA0X;2=2
+!s100 _ZK:n^SdG[SJGH2QWTZB>0
+R9
+32
+R10
+!i10b 1
+R11
+R27
+R28
+!i113 0
+R14
+R15
+Einstruction_memory
+Z29 w1675977792
+R2
+R3
+R4
+R5
+R6
+R0
+Z30 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Instruction_Memory.vhdl
+Z31 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Instruction_Memory.vhdl
+l0
+L16
+V^k;mR10X:B6@Kc>VFig@Q2
+!s100 f9mU5_Poc3e8eTf4AVgG30
+R9
+32
+R10
+!i10b 1
+R11
+Z32 !s90 -reportprogress|30|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Instruction_Memory.vhdl|
+Z33 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Instruction_Memory.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 18 instruction_memory 0 22 ^k;mR10X:B6@Kc>VFig@Q2
+l290
+L26
+V0F]5Fl1boiMnV1GZE]4Rz1
+!s100 dcebnIT0M`NNiRkhB61Zj3
+R9
+32
+R10
+!i10b 1
+R11
+R32
+R33
+!i113 0
+R14
+R15
+Einternal_clock
+R16
+R2
+R5
+R6
+R0
+Z34 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Internal_Clock.vhdl
+Z35 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Internal_Clock.vhdl
+l0
+L12
+VO3zglIAJ0C<eQE?N?=g3:0
+!s100 cM130ieBN@]OD2nJhGW251
+R9
+32
+R10
+!i10b 1
+R11
+Z36 !s90 -reportprogress|30|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Internal_Clock.vhdl|
+Z37 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Internal_Clock.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R5
+R6
+DEx4 work 14 internal_clock 0 22 O3zglIAJ0C<eQE?N?=g3:0
+l30
+L23
+VJ_[=`7QU0SdfH4MZZ`CMW3
+!s100 N3TULZkLddM<HGnYl_9:j3
+R9
+32
+R10
+!i10b 1
+R11
+R36
+R37
+!i113 0
+R14
+R15
+Emain_control
+R16
+R2
+R5
+R6
+R0
+Z38 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Main_control.vhdl
+Z39 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Main_control.vhdl
+l0
+L15
+VieEn7iOc[3ITRJj`lNM1R3
+!s100 E^F[:^7UbYPN]MZ6PFR=O2
+R9
+32
+R10
+!i10b 1
+R11
+Z40 !s90 -reportprogress|30|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Main_control.vhdl|
+Z41 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Main_control.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R5
+R6
+DEx4 work 12 main_control 0 22 ieEn7iOc[3ITRJj`lNM1R3
+l44
+L41
+VPjMRK2]3akiOAAoz0z;AK3
+!s100 aO5JaU1W][9n]HCYXARBb2
+R9
+32
+R10
+!i10b 1
+R11
+R40
+R41
+!i113 0
+R14
+R15
+Emips
+R16
+R2
+R3
+R4
+R5
+R6
+R0
+Z42 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MIPS.vhdl
+Z43 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MIPS.vhdl
+l0
+L21
+Vd6_>On4=fMMCGOEHTn]QI2
+!s100 ml?=WV:H1C9_HN_izCh=91
+R9
+32
+Z44 !s110 1675977800
+!i10b 1
+Z45 !s108 1675977800.000000
+Z46 !s90 -reportprogress|30|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MIPS.vhdl|
+Z47 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MIPS.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+R6
+DEx4 work 4 mips 0 22 d6_>On4=fMMCGOEHTn]QI2
+l294
+L37
+V3Nl4geE_mjlhY9HJk]<jF2
+!s100 SBNC1=e=4:XNEFHCOdm1a3
+R9
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 0
+R14
+R15
+Emips_tb
+R16
+R5
+R6
+R0
+Z48 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MIPS_tb.vhdl
+Z49 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MIPS_tb.vhdl
+l0
+L15
+V`hUaa]O^7nR_a:o6U44bO2
+!s100 B[HYljYGQ7X<5XTPW8SaE1
+R9
+32
+R44
+!i10b 1
+R45
+Z50 !s90 -reportprogress|30|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MIPS_tb.vhdl|
+Z51 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MIPS_tb.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R5
+R6
+DEx4 work 7 mips_tb 0 22 `hUaa]O^7nR_a:o6U44bO2
+l57
+L23
+VJBc:V3hf<=W6HDBP[=FMF0
+!s100 l]gQd7`FNo1i2I?k95Pom1
+R9
+32
+R44
+!i10b 1
+R45
+R50
+R51
+!i113 0
+R14
+R15
+Emux
+R16
+R5
+R6
+R0
+Z52 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MUX.vhdl
+Z53 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MUX.vhdl
+l0
+L15
+VVoPF3^WenK_UGa6J7Ho@E1
+!s100 m976]TeMhoW3SU?P7MozY2
+R9
+32
+R44
+!i10b 1
+R45
+Z54 !s90 -reportprogress|30|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MUX.vhdl|
+Z55 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MUX.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R5
+R6
+DEx4 work 3 mux 0 22 VoPF3^WenK_UGa6J7Ho@E1
+l34
+L33
+VD>cQEg@lk6@@nFK]@:WK=3
+!s100 bk2d^jU^0:UBm[O[4@mQM3
+R9
+32
+R44
+!i10b 1
+R45
+R54
+R55
+!i113 0
+R14
+R15
+Emux_5bit_output
+R16
+R5
+R6
+R0
+Z56 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MUX_5bit_OutPut.vhdl
+Z57 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MUX_5bit_OutPut.vhdl
+l0
+L15
+VAUIj]GjJzG=:Sb0nCl:Df2
+!s100 [:4kEL;CdYlg=:K2[_W4a3
+R9
+32
+R44
+!i10b 1
+R45
+Z58 !s90 -reportprogress|30|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MUX_5bit_OutPut.vhdl|
+Z59 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/MUX_5bit_OutPut.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R5
+R6
+DEx4 work 15 mux_5bit_output 0 22 AUIj]GjJzG=:Sb0nCl:Df2
+l34
+L33
+VHhkic;il=6eE4:_;X?WiX1
+!s100 j48Nj2G8UagY@ig1hZ1L92
+R9
+32
+R44
+!i10b 1
+R45
+R58
+R59
+!i113 0
+R14
+R15
+Eregisterfile
+R16
+R2
+R5
+R6
+R0
+Z60 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/RegisterFile.vhdl
+Z61 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/RegisterFile.vhdl
+l0
+L15
+V:<T2RXHgKCA4D5WOl=MKJ0
+!s100 Gdb0=VHk6?S@YI7?=WdcA2
+R9
+32
+R44
+!i10b 1
+R45
+Z62 !s90 -reportprogress|30|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/RegisterFile.vhdl|
+Z63 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/RegisterFile.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R5
+R6
+DEx4 work 12 registerfile 0 22 :<T2RXHgKCA4D5WOl=MKJ0
+l48
+L42
+VEB1gIIMKzUYeSYf=_iQRM0
+!s100 6Q`CJeB=K6DO?zT?NW[jo1
+R9
+32
+R44
+!i10b 1
+R45
+R62
+R63
+!i113 0
+R14
+R15
+Esignextend
+R16
+R5
+R6
+R0
+Z64 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/SignExtend.vhdl
+Z65 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/SignExtend.vhdl
+l0
+L13
+V1<F<IACIF^bd4XU1EKRF`0
+!s100 J:bV6<o8GiX0g7hBICDdk2
+R9
+32
+R44
+!i10b 1
+R45
+Z66 !s90 -reportprogress|30|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/SignExtend.vhdl|
+Z67 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/SignExtend.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R5
+R6
+DEx4 work 10 signextend 0 22 1<F<IACIF^bd4XU1EKRF`0
+l27
+L25
+VA;E]43;_9f7m3ffa<f@`h1
+!s100 FS1li_PZA?_KLYoo:_z0m3
+R9
+32
+R44
+!i10b 1
+R45
+R66
+R67
+!i113 0
+R14
+R15
+Etest_shift_left
+R16
+R2
+R5
+R6
+R0
+Z68 8C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Test_Shift_left.vhdl
+Z69 FC:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Test_Shift_left.vhdl
+l0
+L15
+VV<Y4dil@Rf7bX@miQI?Ga2
+!s100 B6dPoSAGDle`KaI_nLUf`1
+R9
+32
+R44
+!i10b 1
+R45
+Z70 !s90 -reportprogress|30|-work|work|C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Test_Shift_left.vhdl|
+Z71 !s107 C:/Users/mohammedhamdy32/Documents/NetBeansProjects/ComplierDesign/vhdl code/Test_Shift_left.vhdl|
+!i113 0
+R14
+R15
+Abehavioral
+R2
+R5
+R6
+DEx4 work 15 test_shift_left 0 22 V<Y4dil@Rf7bX@miQI?Ga2
+l32
+L26
+V[8dlF67j6c>@1oP`1zGl:3
+!s100 S:_L@>Roo1S@YD?1Hjc3l1
+R9
+32
+R44
+!i10b 1
+R45
+R70
+R71
+!i113 0
+R14
+R15
