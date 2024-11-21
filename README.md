@@ -29,7 +29,7 @@ Watch the video below for a step-by-step guide on using assembly with this custo
 ## Getting Started
 
 ### Prerequisites
-- **VHDL Simulator/Editor**: Example: ModelSim, Vivado, Quartus.
+- **VHDL Simulator/Editor**: Example: ModelSim.
 - **Assembler and Compiler**: Included in the repository under `assembler/` and `compiler/`.
 - **FPGA Development Tools**: (Optional for synthesis).
 - **Basic knowledge of MIPS architecture**.
@@ -37,4 +37,4 @@ Watch the video below for a step-by-step guide on using assembly with this custo
 ### Steps to Run the Simulation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mips32-processor.git
+   https://github.com/AhmadQasim881/VHDL-MIPS32.git
