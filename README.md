@@ -15,7 +15,3 @@ A **32-bit processor** designed from scratch using **VHDL**, based on the MIPS a
   - Easy to modify or expand.
 - **Fully Synthesizable**:
   - Compatible with FPGA deployment.
-
----
-
-## Project Structure
