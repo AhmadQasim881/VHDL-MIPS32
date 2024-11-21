@@ -29,7 +29,7 @@ Watch the video below for a step-by-step guide on using assembly with this custo
 ## Getting Started
 
 ### Prerequisites
-- **VHDL Simulator/Editor**: Example: ModelSim.
+- **VHDL Simulator/Editor**: Example: [Download ModelSim Tool (Windows)](https://cdrdv2.intel.com/v1/dl/getContent/665990/710187?filename=ModelSimSetup-18.1.0.625-windows.exe)
 - **Assembler and Compiler**: Included in the repository under `assembler/` and `compiler/`.
 - **FPGA Development Tools**: (Optional for synthesis).
 - **Basic knowledge of MIPS architecture**.
